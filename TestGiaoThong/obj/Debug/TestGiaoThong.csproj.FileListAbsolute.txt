@@ -1,0 +1,8 @@
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\bin\Debug\TestGiaoThong.exe.config
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\obj\Debug\TestGiaoThong.Form1.resources
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\obj\Debug\TestGiaoThong.Properties.Resources.resources
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\obj\Debug\TestGiaoThong.csproj.GenerateResource.Cache
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\bin\Debug\TestGiaoThong.exe
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\bin\Debug\TestGiaoThong.pdb
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\obj\Debug\TestGiaoThong.exe
+c:\users\trang\documents\visual studio 2015\Projects\TestGiaoThong\TestGiaoThong\obj\Debug\TestGiaoThong.pdb
